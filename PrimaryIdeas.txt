@@ -16,6 +16,5 @@ NBA datasets: https://www.kaggle.com/justinas/nba-players-data
 - Determine the position of a player based off stats 
 
 https://dribbleanalytics.blog/2019/04/positional-clustering/#:~:text=k%2Dmeans%20clustering%20is%20a,is%20not%20hard%20to%20visualize.&text=The%20algorithm%20groups%20the%20data,the%20data%20for%20that%20cluster. 
-
 https://spark.apache.org/docs/latest/ml-clustering.html
 https://spark.apache.org/docs/latest/mllib-clustering.html
