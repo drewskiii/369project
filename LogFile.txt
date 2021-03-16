@@ -1,0 +1,7 @@
+Log File
+
+March 9th meeting 7pm-8pm, attendees: Carlos Garcia-Lemus, Andrew Lor, Srikar Pogaru, Ria Bhatt
+Meeting Description: We met up to discuss what we were going to do for our project and we began looking for datasets. Srikar suggested we use ‘k-means clustering’ for our algorithm and so we’re rolling with that.
+
+March 15th meeting 6pm-7pm, attendees: Carlos Garcia-Lemus, Andrew Lor, Srikar Pogaru, Ria Bhatt
+Meeting Description: We met up over zoom to discuss what we would do specifically for our k-means predictions.
