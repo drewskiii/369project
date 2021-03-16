@@ -1,16 +1,19 @@
 3/9/21
+
 K-means clustering: https://www.youtube.com/watch?v=_S5tvagaQRU  
+
 NBA datasets: https://www.kaggle.com/justinas/nba-players-data 
-    https://github.com/TWanish/NBAPlayerValue/blob/master/data/nbaStats.csv 
-https://www.kaggle.com/nathanlauga/nba-games 
-https://www.kaggle.com/drgilermo/nba-players-stats?select=player_data.csv
-Group by year, sort the teams by the number of games they won 
-Predicting rankings based on team stats 
-Cluster rookies with veterans based on certain stats (Srikar)
-Determine if player would start or be bench player based on stats (Andrew Lor)
-Determine players age based off stats (Ria)
-Determine if player would be an NBA All-Star player
-Determine the position of a player based off stats 
+              https://github.com/TWanish/NBAPlayerValue/blob/master/data/nbaStats.csv 
+              https://www.kaggle.com/nathanlauga/nba-games 
+              https://www.kaggle.com/drgilermo/nba-players-stats?select=player_data.csv
+              
+- Group by year, sort the teams by the number of games they won 
+- Predicting rankings based on team stats 
+- Cluster rookies with veterans based on certain stats (Srikar)
+- Determine if player would start or be bench player based on stats (Andrew Lor)
+- Determine players age based off stats (Ria)
+- Determine if player would be an NBA All-Star player
+- Determine the position of a player based off stats 
 
 https://dribbleanalytics.blog/2019/04/positional-clustering/#:~:text=k%2Dmeans%20clustering%20is%20a,is%20not%20hard%20to%20visualize.&text=The%20algorithm%20groups%20the%20data,the%20data%20for%20that%20cluster. 
 
