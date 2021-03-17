@@ -1,4 +1,4 @@
 [debug] not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/home/carlos/Desktop/369pp/RookieVeteranComparison/"), "rookieveterancomparison")...
-[debug] Done updating ProjectRef(uri("file:/home/carlos/Desktop/369pp/RookieVeteranComparison/"), "rookieveterancomparison")
+[debug] Updating ProjectRef(uri("file:/Users/srikar/Desktop/Cal_Poly/Third%20Year/Winter_2021/CSC_369/FinalProject/FinalProject/"), "finalproject")...
+[debug] Done updating ProjectRef(uri("file:/Users/srikar/Desktop/Cal_Poly/Third%20Year/Winter_2021/CSC_369/FinalProject/FinalProject/"), "finalproject")
 [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
