@@ -1,4 +1,4 @@
-name := "TestScala"
+name := "RookieVeteranComparison"
 
 version := "0.1"
 
