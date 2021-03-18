@@ -5,3 +5,17 @@ Meeting Description: We met up to discuss what we were going to do for our proje
 
 March 15th meeting 6pm-7pm, attendees: Carlos Garcia-Lemus, Andrew Lor, Srikar Pogaru, Ria Bhatt
 Meeting Description: We met up over zoom to discuss what we would do specifically for our k-means predictions.
+
+Ria Bhatt 
+Did K-means clustering on Height Groups of Players 
+On: 3/16/21
+   Started code 
+   Cleaned data 
+   Created RDDs
+On: 3/17/21
+   Implemented k-means 
+   Predicted output 
+   Successfully ran code 
+On: 3/18/21
+   Calculated precision, recall, and f1 score for the model 
+   Finished log entries and slides on presentation 
