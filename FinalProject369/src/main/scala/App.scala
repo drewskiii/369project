@@ -1,4 +1,3 @@
-package code
 import org.apache.spark.SparkContext._
 
 import scala.io._
@@ -23,13 +22,13 @@ object App {
     val conf = new SparkConf().setAppName("name").setMaster("local[4]")
     val sc = new SparkContext(conf)
 
-    val playerHeights = sc.textFile("input/all_seasons.csv").map(line => (line.split(",")(1), line.split(",")(4).toDouble))
+    val playerHeights = sc.textFile("all_seasons.csv").map(line => (line.split(",")(1), line.split(",")(4).toDouble))
       .sortBy(r => r._2) //(name, height)
     val size = playerHeights.collect().length/3
     val data = 0 :: List.fill(size)(0) ::: List.fill(size)(1) ::: List.fill(size)(2)
     //splitting the heights into three categorical groups
 
-    val games = sc.textFile("input/games_details.csv").map(line => (line.split(",")(5),
+    val games = sc.textFile("games_details.csv").map(line => (line.split(",")(5),
       (line.split(",")(10).toDouble, line.split(",")(13).toDouble, line.split(",")(16).toDouble, line.split(",")(25).toDouble)))
     //(name, (3pt percentage, free throw percentage, rebounds, num pts))
 
